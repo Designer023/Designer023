@@ -27,6 +27,8 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
+        with:
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit and Push new README.md to the repository
         uses: mikeal/publish-to-github-action@master
         env:

@@ -39,7 +39,7 @@ const getLatestRepos = async () => {
     `,
     {
       headers: {
-        authorization: `token ${process.env.GH_TOKEN}`,
+        authorization: `token ${process.env.GITHUB_TOKEN}`,
       },
     }
   );
