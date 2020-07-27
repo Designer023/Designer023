@@ -4,8 +4,6 @@ const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
 const { graphql } = require("@octokit/graphql");
 
-console.log`Using token: ${process.env.GH_TOKEN}`;
-
 const getLatestRepos = async () => {
   const data = await graphql(
     `
