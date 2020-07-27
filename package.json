@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Designer023/Designer023#readme",
   "dependencies": {
+    "@octokit/graphql": "^4.5.2",
+    "graphql": "^15.3.0",
     "mustache": "^4.0.1"
   }
 }
