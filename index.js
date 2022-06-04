@@ -2,16 +2,16 @@
 const Mustache = require("mustache");
 const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const { graphql } = require("@octokit/graphql");
+const {graphql} = require("@octokit/graphql");
 
 const getLatestRepos = async () => {
-  const data = await graphql(
-    `
+    const data = await graphql(
+        `
       {
         user(login: "designer023") {
           repositories(
-            orderBy: { field: UPDATED_AT, direction: DESC }
-            first: 5
+            orderBy: {field: UPDATED_AT, direction: DESC}
+            first: 3
             affiliations: OWNER
             isFork: false
           ) {
@@ -19,32 +19,33 @@ const getLatestRepos = async () => {
               node {
                 url
                 name
+                isPrivate
               }
             }
           }
           repositoriesContributedTo(
-            orderBy: { field: UPDATED_AT, direction: DESC }
-            first: 5
-            privacy: PUBLIC
+            orderBy: {field: UPDATED_AT, direction: DESC}
+            first: 3
           ) {
             edges {
               node {
                 url
                 name
+                isPrivate
               }
             }
           }
         }
       }
     `,
-    {
-      headers: {
-        authorization: `token ${process.env.GITHUB_TOKEN}`,
-      },
-    }
-  );
+        {
+            headers: {
+                authorization: `token ${process.env.GITHUB_TOKEN}`,
+            },
+        }
+    );
 
-  return data;
+    return data;
 };
 
 /**
@@ -53,46 +54,42 @@ const getLatestRepos = async () => {
  * C - We create a README.md file with the generated output
  */
 function generateReadMe(content) {
-  fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
-    if (err) throw err;
-    const output = Mustache.render(data.toString(), content);
-    fs.writeFileSync("README.md", output);
-  });
+    fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
+        if (err) throw err;
+        const output = Mustache.render(data.toString(), content);
+        fs.writeFileSync("README.md", output);
+    });
 }
 
 getLatestRepos().then((result) => {
-  const repoData = [];
+    const repoData = result.user.repositories.edges.map((edge) => ({
+            name: edge.node.name,
+            url: edge.node.url,
+            private: edge.node.isPrivate
+        })
+    )
 
-  result.user.repositories.edges.map((edge) => {
-    repoData.push({
-      name: edge.node.name,
-      url: edge.node.url,
-    });
-  });
+    const contribData = result.user.repositoriesContributedTo.edges.map((edge) => ({
+            name: edge.node.name,
+            url: edge.node.url,
+            private: edge.node.isPrivate
+        })
+    );
 
-  const contribData = [];
+    let content = {
+        name: "Carl",
+        date: new Date().toLocaleDateString("en-GB", {
+            weekday: "long",
+            month: "long",
+            day: "numeric",
+            hour: "numeric",
+            minute: "numeric",
+            timeZoneName: "short",
+            timeZone: "Europe/London",
+        }),
+        repos: repoData,
+        contribData,
+    };
 
-  result.user.repositoriesContributedTo.edges.map((edge) => {
-    contribData.push({
-      name: edge.node.name,
-      url: edge.node.url,
-    });
-  });
-
-  let content = {
-    name: "Carl",
-    date: new Date().toLocaleDateString("en-GB", {
-      weekday: "long",
-      month: "long",
-      day: "numeric",
-      hour: "numeric",
-      minute: "numeric",
-      timeZoneName: "short",
-      timeZone: "Europe/London",
-    }),
-    repos: repoData,
-    contribData,
-  };
-
-  generateReadMe(content);
+    generateReadMe(content);
 });
