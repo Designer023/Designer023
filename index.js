@@ -8,35 +8,37 @@ const getLatestRepos = async () => {
     const data = await graphql(
         `
       {
-        user(login: "designer023") {
-          repositories(
-            orderBy: {field: UPDATED_AT, direction: DESC}
-            first: 3
-            affiliations: OWNER
-            isFork: false
-          ) {
-            edges {
-              node {
-                url
-                name
-                isPrivate
+          user(login: "designer023") {
+            repositories(
+              orderBy: {field: UPDATED_AT, direction: DESC}
+              first: 3
+              affiliations: OWNER
+              isFork: false
+            ) {
+              edges {
+                node {
+                  url
+                  name
+                  description
+                  isPrivate
+                }
               }
             }
-          }
-          repositoriesContributedTo(
-            orderBy: {field: UPDATED_AT, direction: DESC}
-            first: 3
-          ) {
-            edges {
-              node {
-                url
-                name
-                isPrivate
+            repositoriesContributedTo(
+              orderBy: {field: UPDATED_AT, direction: DESC}
+              first: 3
+            ) {
+              edges {
+                node {
+                  url
+                  name
+                  description
+                  isPrivate
+                }
               }
             }
           }
         }
-      }
     `,
         {
             headers: {
@@ -65,14 +67,16 @@ getLatestRepos().then((result) => {
     const repoData = result.user.repositories.edges.map((edge) => ({
             name: edge.node.name,
             url: edge.node.url,
-            private: edge.node.isPrivate
+            private: edge.node.isPrivate,
+            description: edge.node.description
         })
     )
 
     const contribData = result.user.repositoriesContributedTo.edges.map((edge) => ({
             name: edge.node.name,
             url: edge.node.url,
-            private: edge.node.isPrivate
+            private: edge.node.isPrivate,
+            description: edge.node.description
         })
     );
 

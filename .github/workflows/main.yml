@@ -17,7 +17,7 @@
      steps:
        - name: Checkout current repository to Master branch
          uses: actions/checkout@v2
-       - name: Setup NodeJs 13.x
+       - name: Setup NodeJs 14.x
          uses: actions/setup-node@v1
          with:
            node-version: ${{ env.NODE_VERSION }}
