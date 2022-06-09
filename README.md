@@ -14,4 +14,4 @@ Auto generating Github Profile readme
 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 
 
-Last updated on Wednesday, 8 June, 12:07 BST.
+Last updated on Thursday, 9 June, 12:02 BST.
