@@ -10,8 +10,5 @@ Auto generating Github Profile readme
 
 ### 🖖 I’ve recently contributed to...
 
-#### [twin.macro](https://github.com/ben-rogerson/twin.macro) 
-🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 
-
-Last updated on Saturday, 10 September, 12:02 BST.
+Last updated on Sunday, 11 September, 12:02 BST.
