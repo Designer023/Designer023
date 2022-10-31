@@ -14,4 +14,4 @@ Auto generating Github Profile readme
 The Sanity Studio – Collaborate in real-time on structured content
 
 
-Last updated on Sunday, 30 October, 11:02 GMT.
+Last updated on Monday, 31 October, 11:02 GMT.
