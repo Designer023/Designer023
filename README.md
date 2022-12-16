@@ -11,7 +11,7 @@ Auto generating Github Profile readme
 ### 🖖 I’ve recently contributed to...
 
 #### [sanity](https://github.com/sanity-io/sanity) 
-The Sanity Studio – Collaborate in real-time on structured content
+Sanity Studio – Rapidly configure content workspaces powered by structured content
 
 
-Last updated on Thursday, 15 December, 11:02 GMT.
+Last updated on Friday, 16 December, 11:02 GMT.
