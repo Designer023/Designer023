@@ -13,5 +13,8 @@ Auto generating Github Profile readme
 #### [sanity](https://github.com/sanity-io/sanity) 
 Sanity Studio – Rapidly configure content workspaces powered by structured content
 
+#### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane) 
+Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
 
-Last updated on Friday, 16 December, 11:02 GMT.
+
+Last updated on Saturday, 17 December, 11:02 GMT.
