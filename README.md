@@ -20,4 +20,4 @@ Yoast SEO for WordPress
 Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
 
 
-Last updated on Wednesday, 1 March, 11:02 GMT.
+Last updated on Thursday, 2 March, 11:02 GMT.
