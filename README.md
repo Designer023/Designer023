@@ -10,14 +10,14 @@ Auto generating Github Profile readme
 
 ### 🖖 I’ve recently contributed to...
 
-#### [wordpress-seo](https://github.com/Yoast/wordpress-seo) 
-Yoast SEO for WordPress
-
 #### [sanity](https://github.com/sanity-io/sanity) 
 Sanity Studio – Rapidly configure content workspaces powered by structured content
+
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo) 
+Yoast SEO for WordPress
 
 #### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane) 
 Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
 
 
-Last updated on Saturday, 18 March, 11:02 GMT.
+Last updated on Sunday, 19 March, 11:02 GMT.
