@@ -16,8 +16,8 @@ OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pin
 #### [sanity](https://github.com/sanity-io/sanity) 
 Sanity Studio – Rapidly configure content workspaces powered by structured content
 
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes) 
-Flexible and translated routes for Next.js without custom server
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo) 
+Yoast SEO for WordPress
 
 
-Last updated on Friday, 12 May, 12:02 BST.
+Last updated on Saturday, 13 May, 12:02 BST.
