@@ -13,11 +13,11 @@ Auto generating Github Profile readme
 #### [sanity](https://github.com/sanity-io/sanity) 
 Sanity Studio – Rapidly configure content workspaces powered by structured content
 
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo) 
+Yoast SEO for WordPress
+
 #### [vault-ai](https://github.com/pashpashpash/vault-ai) 
 OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, etc) using a simple React frontend.
 
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes) 
-Flexible and translated routes for Next.js without custom server
 
-
-Last updated on Wednesday, 14 June, 12:02 BST.
+Last updated on Thursday, 15 June, 12:02 BST.
