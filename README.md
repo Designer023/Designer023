@@ -20,4 +20,4 @@ Yoast SEO for WordPress
 Sanity Studio – Rapidly configure content workspaces powered by structured content
 
 
-Last updated on Friday, 4 August, 12:02 BST.
+Last updated on Saturday, 5 August, 12:02 BST.
