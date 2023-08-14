@@ -20,4 +20,4 @@ Sanity Studio – Rapidly configure content workspaces powered by structured con
 Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
 
 
-Last updated on Sunday, 13 August, 12:02 BST.
+Last updated on Monday, 14 August, 12:02 BST.
