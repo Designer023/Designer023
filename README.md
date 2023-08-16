@@ -10,14 +10,14 @@ Auto generating Github Profile readme
 
 ### 🖖 I’ve recently contributed to...
 
-#### [sanity](https://github.com/sanity-io/sanity) 
-Sanity Studio – Rapidly configure content workspaces powered by structured content
-
 #### [vault-ai](https://github.com/pashpashpash/vault-ai) 
 OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 
-#### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane) 
-Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
+#### [GROQ](https://github.com/sanity-io/GROQ) 
+Specification for GROQ - The Query Language for JSON
+
+#### [sanity](https://github.com/sanity-io/sanity) 
+Sanity Studio – Rapidly configure content workspaces powered by structured content
 
 
-Last updated on Tuesday, 15 August, 12:02 BST.
+Last updated on Wednesday, 16 August, 12:02 BST.
