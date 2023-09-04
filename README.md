@@ -13,11 +13,11 @@ Auto generating Github Profile readme
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo) 
 Yoast SEO for WordPress
 
-#### [sanity](https://github.com/sanity-io/sanity) 
-Sanity Studio – Rapidly configure content workspaces powered by structured content
+#### [GROQ](https://github.com/sanity-io/GROQ) 
+Specification for GROQ - The Query Language for JSON
 
 #### [vault-ai](https://github.com/pashpashpash/vault-ai) 
 OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 
 
-Last updated on Sunday, 3 September, 12:02 BST.
+Last updated on Monday, 4 September, 12:02 BST.
