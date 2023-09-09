@@ -10,8 +10,8 @@ Auto generating Github Profile readme
 
 ### 🖖 I’ve recently contributed to...
 
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes) 
-Flexible and translated routes for Next.js without custom server
+#### [vault-ai](https://github.com/pashpashpash/vault-ai) 
+OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.
 
 #### [GROQ](https://github.com/sanity-io/GROQ) 
 Specification for GROQ - The Query Language for JSON
@@ -20,4 +20,4 @@ Specification for GROQ - The Query Language for JSON
 Sanity Studio – Rapidly configure content workspaces powered by structured content
 
 
-Last updated on Friday, 8 September, 12:02 BST.
+Last updated on Saturday, 9 September, 12:02 BST.
