@@ -30,7 +30,7 @@
          run: npm install
        - name: Generate README file
          run: |-
-           node index.js
+           tsnode src/index.ts
            cat README.md
          env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
