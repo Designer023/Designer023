@@ -1,0 +1,32 @@
+# My name is {{name}},
+
+Welcome to my Github profile. This is an auto generated/updated profile with a summary of my Github activity.
+
+## 💻 I’ve recently been working on...
+
+{{#repos}}
+{{#private}}
+#### 🔐 {{privateName}} ~~redacted~~
+{{/private}}
+{{^private}}
+#### [{{ name }}]({{{ url }}})
+> {{#description}}{{description}}{{/description}}
+{{/private}}
+
+{{/repos}}
+***
+## 🤝 I’ve contributed to...
+
+{{#contribData}}
+{{#private}}
+#### 🔐 {{privateName}} ~~redacted~~
+{{/private}}
+{{^private}}
+#### [{{ name }}]({{{ url }}})
+> {{#description}}{{description}}{{/description}}
+{{/private}}
+
+{{/contribData}}
+
+***
+Last updated on {{date}}.
