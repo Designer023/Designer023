@@ -4,7 +4,8 @@
   "description": "<!-- **Designer023/Designer023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "ts-node src/index.ts"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,13 @@
   "homepage": "https://github.com/Designer023/Designer023#readme",
   "dependencies": {
     "@octokit/graphql": "^4.5.2",
-    "graphql": "^15.3.0",
-    "mustache": "^4.0.1"
+    "dotenv": "^16.3.1",
+    "graphql": "^16.2.0",
+    "mustache": "^4.2.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.6.1"
   }
 }
