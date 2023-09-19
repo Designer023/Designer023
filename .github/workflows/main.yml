@@ -51,6 +51,7 @@
            cat README.md
          env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+           CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
 
        - name: Commit and push if changed
          run: |-
