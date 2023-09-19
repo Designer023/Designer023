@@ -22,16 +22,16 @@
          uses: actions/setup-node@v3
          with:
            node-version: ${{ env.NODE_VERSION }}
-#       - name: Cache dependencies and build outputs to improve workflow execution time.
-#         uses: actions/cache@v3
-#         with:
-#           path: node_modules
-#           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
+       - name: Cache dependencies and build outputs to improve workflow execution time.
+         uses: actions/cache@v3
+         with:
+           path: node_modules
+           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
        - name: Install dependencies
          run: npm install
        - name: Generate README file
          run: |-
-           tsnode src/index.ts
+           npm run build
            cat README.md
          env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
