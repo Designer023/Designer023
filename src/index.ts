@@ -97,7 +97,7 @@ const getLatestRepos = async (): Promise<ProfileData> => {
     `,
         {
             headers: {
-                authorization: `token ${process.env.GITHUB_TOKEN}`,
+                authorization: `token ${process.env.CUSTOM_GITHUB_TOKEN}`,
             },
         }
     );

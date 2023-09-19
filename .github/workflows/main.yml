@@ -11,6 +11,9 @@
    repository-projects: read
    security-events: none
    statuses: none
+   discussions: read
+
+   #  public_repo, read:discussion, read:packages, read:project, repo:status, repo_deployment
 
  on:
    pull_request:
@@ -23,6 +26,7 @@
  env:
    NODE_VERSION: 18
    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   CUSTOM_GITHUB_TOKEN: ${{ secrets.CUSTOM_GITHUB_TOKEN }}
  jobs:
    build:
      runs-on: ubuntu-latest
