@@ -32,12 +32,12 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
+
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -59,4 +59,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Sunday, 24 September at 12:02 BST.
+Last updated on Monday, 25 September at 12:02 BST.
