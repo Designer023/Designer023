@@ -4,6 +4,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### [chromesnowext](https://github.com/Designer023/chromesnowext)
+> A Chome Snow Extention
+
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
 
@@ -27,17 +30,15 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░-░░░░░░░░░░_░░░ ~~redacted~~
 
-#### 🔐 ░░░░░░░░░░_░░░ ~~redacted~~
-
 ***
 ## 🤝 I’ve contributed to...
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
+
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -59,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday, 4 October at 12:02 BST.
+Last updated on Thursday, 5 October at 12:02 BST.
