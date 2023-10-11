@@ -38,10 +38,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday, 10 October at 12:02 BST.
+Last updated on Wednesday, 11 October at 12:02 BST.
