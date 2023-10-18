@@ -4,6 +4,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░░░-░░░░░░░-░░░░-░░░░ ~~redacted~~
+
 #### [chromesnowext](https://github.com/Designer023/chromesnowext)
 > A Chome Snow Extention
 
@@ -28,17 +30,15 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░_░░░░░░_░░░ ~~redacted~~
 
-#### 🔐 ░░░░░░░░-░░░░░░░░░░_░░░ ~~redacted~~
-
 ***
 ## 🤝 I’ve contributed to...
 
-#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
-> Yoast SEO for WordPress
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░ ~~redacted~~
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
+> Yoast SEO for WordPress
 
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday, 17 October at 12:02 BST.
+Last updated on Wednesday, 18 October at 12:02 BST.
