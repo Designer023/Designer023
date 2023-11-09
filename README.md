@@ -33,6 +33,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
@@ -40,8 +42,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday, 8 November at 11:02 GMT.
+Last updated on Thursday, 9 November at 11:02 GMT.
