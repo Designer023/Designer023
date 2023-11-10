@@ -4,10 +4,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
-#### 🔐 ░░░░░░-░░░░░░░-░░░░-░░░░ ~~redacted~~
-
 #### [chromesnowext](https://github.com/Designer023/chromesnowext)
 > A Chome Snow Extention
+
+#### 🔐 ░░░░░░-░░░░░░░-░░░░-░░░░ ~~redacted~~
 
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
@@ -33,8 +33,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
@@ -43,14 +41,16 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
 
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
-> Flexible and translated routes for Next.js without custom server
-
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░-░░░░░░-░░░ ~~redacted~~
+
+#### 🔐 ░░░░░ ~~redacted~~
+
+#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
+> Flexible and translated routes for Next.js without custom server
 
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday, 9 November at 11:02 GMT.
+Last updated on Friday, 10 November at 11:02 GMT.
