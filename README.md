@@ -33,17 +33,20 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
+#### 🔐 ░░░-░░░░ ~~redacted~~
+
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
+#### 🔐 ░░░░░ ~~redacted~~
 
-#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
-> Netlify Plugin to run Lighthouse on each build
+#### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
+> 
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░ ~~redacted~~
+#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
+> Netlify Plugin to run Lighthouse on each build
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
@@ -54,9 +57,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
 
-#### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
-> 
-
 
 ***
-Last updated on Tuesday, 21 November at 11:02 GMT.
+Last updated on Wednesday, 22 November at 11:02 GMT.
