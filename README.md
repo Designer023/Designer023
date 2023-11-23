@@ -33,10 +33,13 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
-
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
+
+#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
+> Flexible and translated routes for Next.js without custom server
 
 #### 🔐 ░░░░░ ~~redacted~~
 
@@ -54,9 +57,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░-░░░░░░-░░░ ~~redacted~~
 
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
-> Flexible and translated routes for Next.js without custom server
-
 
 ***
-Last updated on Wednesday, 22 November at 11:02 GMT.
+Last updated on Thursday, 23 November at 11:02 GMT.
