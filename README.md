@@ -38,18 +38,18 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
-> Flexible and translated routes for Next.js without custom server
-
-#### 🔐 ░░░░░ ~~redacted~~
-
-#### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
-> 
-
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
+
+#### 🔐 ░░░░░ ~~redacted~~
+
+#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
+> Flexible and translated routes for Next.js without custom server
+
+#### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
+> 
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
@@ -59,4 +59,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday, 23 November at 11:02 GMT.
+Last updated on Friday, 24 November at 11:02 GMT.
