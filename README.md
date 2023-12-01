@@ -36,27 +36,29 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
+#### [GROQ](https://github.com/sanity-io/GROQ)
+> Specification for GROQ - The Query Language for JSON
+
 #### 🔐 ░░░░░ ~~redacted~~
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
+#### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane)
+> Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
+
+#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
+> Netlify Plugin to run Lighthouse on each build
 
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
-#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
-> Netlify Plugin to run Lighthouse on each build
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░-░░░░░░-░░░ ~~redacted~~
-
 
 ***
-Last updated on Thursday, 30 November at 11:02 GMT.
+Last updated on Friday, 1 December at 11:02 GMT.
