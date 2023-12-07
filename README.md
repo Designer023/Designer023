@@ -36,14 +36,14 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
+#### 🔐 ░░░░░░░░ ~~redacted~~
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
+
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
 #### 🔐 ░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
-#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░ ~~redacted~~
 
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday, 6 December at 11:02 GMT.
+Last updated on Thursday, 7 December at 11:02 GMT.
