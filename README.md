@@ -33,12 +33,15 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
-#### 🔐 ░░░░░ ~~redacted~~
+#### 🔐 ░░░░░░░░ ~~redacted~~
+
+#### [GROQ](https://github.com/sanity-io/GROQ)
+> Specification for GROQ - The Query Language for JSON
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
@@ -50,9 +53,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░ ~~redacted~~
 
-#### [GROQ](https://github.com/sanity-io/GROQ)
-> Specification for GROQ - The Query Language for JSON
-
 #### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane)
 > Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
 
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Monday, 11 December at 11:02 GMT.
+Last updated on Tuesday, 12 December at 11:02 GMT.
