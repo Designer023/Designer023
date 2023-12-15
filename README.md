@@ -36,6 +36,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
+#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
+> Netlify Plugin to run Lighthouse on each build
+
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░ ~~redacted~~
@@ -50,9 +53,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
-#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
-> Netlify Plugin to run Lighthouse on each build
-
 #### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane)
 > Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
 
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday, 14 December at 11:02 GMT.
+Last updated on Friday, 15 December at 11:02 GMT.
