@@ -53,12 +53,11 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
-#### [sanity-plugin-seo-pane](https://github.com/sanity-io/sanity-plugin-seo-pane)
-> Run Yoast&#39;s SEO review tools using Sanity data, inside a List View Pane.
-
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
 
+#### 🔐 ░░░░░░-░░░░ ~~redacted~~
+
 
 ***
-Last updated on Saturday, 16 December at 11:02 GMT.
+Last updated on Sunday, 17 December at 11:02 GMT.
