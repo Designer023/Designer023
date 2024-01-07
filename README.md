@@ -33,12 +33,12 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
+> Yoast SEO for WordPress
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
-
-#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
-> Yoast SEO for WordPress
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Saturday, 6 January at 11:02 GMT.
+Last updated on Sunday, 7 January at 11:02 GMT.
