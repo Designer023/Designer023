@@ -36,13 +36,16 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
+#### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
+> 
+
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -53,11 +56,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
 
-#### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
-> 
-
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
 
 ***
-Last updated on Wednesday, 10 January at 11:02 GMT.
+Last updated on Thursday, 11 January at 11:02 GMT.
