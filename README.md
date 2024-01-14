@@ -4,6 +4,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░░░░░░-░░░░░░░-░░░░ ~~redacted~~
+
 #### [chromesnowext](https://github.com/Designer023/chromesnowext)
 > A Chome Snow Extention
 
@@ -27,8 +29,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 > Running pace calculator, written to learn Vue. Generates the pace&#x2F;speed&#x2F;time&#x2F;distance params depending on the chosen outcome
 
 #### 🔐 ░░-░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░_░░░░░░_░░░ ~~redacted~~
 
 ***
 ## 🤝 I’ve contributed to...
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Saturday, 13 January at 11:02 GMT.
+Last updated on Sunday, 14 January at 11:02 GMT.
