@@ -40,6 +40,11 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
+#### 🔐 ░░░░░ ~~redacted~~
+
+#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
+> Extends Playwright test to measure code coverage
+
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
@@ -48,16 +53,12 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### [next-translate-routes](https://github.com/hozana/next-translate-routes)
 > Flexible and translated routes for Next.js without custom server
 
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
 
-#### 🔐 ░░░░░░-░░░░ ~~redacted~~
-
 
 ***
-Last updated on Monday, 22 January at 11:02 GMT.
+Last updated on Tuesday, 23 January at 11:02 GMT.
