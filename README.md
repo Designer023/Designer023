@@ -33,19 +33,19 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
-> Extends Playwright test to measure code coverage
+#### 🔐 ░░░░░ ~~redacted~~
+
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
+#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
+> Extends Playwright test to measure code coverage
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Sunday, 28 January at 11:07 GMT.
+Last updated on Monday, 29 January at 11:08 GMT.
