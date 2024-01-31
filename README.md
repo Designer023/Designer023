@@ -4,6 +4,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░░░-░░░░░-░░░░░░░-░░░░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░░░░░-░░░░░░░-░░░░ ~~redacted~~
 
 #### [chromesnowext](https://github.com/Designer023/chromesnowext)
@@ -28,17 +30,13 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [running-calculator-vue](https://github.com/Designer023/running-calculator-vue)
 > Running pace calculator, written to learn Vue. Generates the pace&#x2F;speed&#x2F;time&#x2F;distance params depending on the chosen outcome
 
-#### 🔐 ░░-░░░░░ ~~redacted~~
-
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
+
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
@@ -49,6 +47,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
+
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday, 30 January at 11:08 GMT.
+Last updated on Wednesday, 31 January at 11:08 GMT.
