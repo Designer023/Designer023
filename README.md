@@ -36,6 +36,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
 > Yoast SEO for WordPress
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
@@ -48,8 +50,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
 
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Friday, 2 February at 11:08 GMT.
+Last updated on Saturday, 3 February at 11:08 GMT.
