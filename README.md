@@ -33,32 +33,32 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
+#### 🔐 ░░░░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
+> Yoast SEO for WordPress
 
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
 
-#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
-> Yoast SEO for WordPress
+#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
+> Flexible and translated routes for Next.js without custom server
+
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
 
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
-
-#### [next-translate-routes](https://github.com/hozana/next-translate-routes)
-> Flexible and translated routes for Next.js without custom server
 
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
 
 
 ***
-Last updated on Monday, 12 February at 11:08 GMT.
+Last updated on Tuesday, 13 February at 11:09 GMT.
