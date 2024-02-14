@@ -33,12 +33,14 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
+#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
+> Yoast SEO for WordPress
 
 #### 🔐 ░░░░░ ~~redacted~~
 
-#### [wordpress-seo](https://github.com/Yoast/wordpress-seo)
-> Yoast SEO for WordPress
+#### 🔐 ░░░░░░░░ ~~redacted~~
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
@@ -47,8 +49,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 > Flexible and translated routes for Next.js without custom server
 
 #### 🔐 ░░░░░ ~~redacted~~
-
-#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -61,4 +61,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday, 13 February at 11:09 GMT.
+Last updated on Wednesday, 14 February at 11:09 GMT.
