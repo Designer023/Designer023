@@ -33,15 +33,15 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░ ~~redacted~~
-
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
-#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
-> Extends Playwright test to measure code coverage
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
+
+#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
+> Extends Playwright test to measure code coverage
 
 #### 🔐 ░░░░░ ~~redacted~~
 
@@ -60,4 +60,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Monday, 4 March at 11:31 GMT.
+Last updated on Tuesday, 5 March at 11:02 GMT.
