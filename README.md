@@ -4,6 +4,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░-░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░░-░░░░░-░░░░░░░-░░░░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░░░░-░░░░░░░-░░░░ ~~redacted~~
@@ -26,9 +28,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### [running-calculator-svelte](https://github.com/Designer023/running-calculator-svelte)
 > Running pace calculator, written to learn Svelte. Generates the pace&#x2F;speed&#x2F;time&#x2F;distance params depending on the chosen outcome
-
-#### [running-calculator-vue](https://github.com/Designer023/running-calculator-vue)
-> Running pace calculator, written to learn Vue. Generates the pace&#x2F;speed&#x2F;time&#x2F;distance params depending on the chosen outcome
 
 ***
 ## 🤝 I’ve contributed to...
@@ -60,4 +59,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Monday 15 April at 12:02 BST.
+Last updated on Tuesday 16 April at 12:02 BST.
