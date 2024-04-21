@@ -4,6 +4,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### [Designer023](https://github.com/Designer023/Designer023)
+> Auto generating Github Profile readme
+
 #### 🔐 ░░░░-░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░-░░░░░-░░░░░░░-░░░░░░░░ ~~redacted~~
@@ -14,9 +17,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 > A Chome Snow Extention
 
 #### 🔐 ░░░░░░-░░░░░░░-░░░░-░░░░ ~~redacted~~
-
-#### [Designer023](https://github.com/Designer023/Designer023)
-> Auto generating Github Profile readme
 
 #### 🔐 ░░░░░░░░-░░░░-░░░░░░░-░░░░░░░░░░░ ~~redacted~~
 
@@ -59,4 +59,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Saturday 20 April at 12:02 BST.
+Last updated on Sunday 21 April at 12:02 BST.
