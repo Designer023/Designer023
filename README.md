@@ -34,6 +34,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
+#### 🔐 ░░░░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
@@ -45,8 +47,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
@@ -56,4 +56,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday 7 May at 12:03 BST.
+Last updated on Wednesday 8 May at 12:02 BST.
