@@ -4,6 +4,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░░░░░ ~~redacted~~
+
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
 
@@ -26,20 +28,17 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [running-kit-list](https://github.com/Designer023/running-kit-list)
 > Generate a list of running kit required for various parameters including weather, distance, terrain and regs.
 
-#### [running-calculator-svelte](https://github.com/Designer023/running-calculator-svelte)
-> Running pace calculator, written to learn Svelte. Generates the pace&#x2F;speed&#x2F;time&#x2F;distance params depending on the chosen outcome
-
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
-
 #### 🔐 ░░░░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
+
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
@@ -56,4 +55,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday 8 May at 12:02 BST.
+Last updated on Thursday 9 May at 12:02 BST.
