@@ -38,13 +38,13 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
+#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
+> Extends Playwright test to measure code coverage
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
-
-#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
-> Extends Playwright test to measure code coverage
 
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
@@ -55,4 +55,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday 9 May at 12:02 BST.
+Last updated on Friday 10 May at 12:02 BST.
