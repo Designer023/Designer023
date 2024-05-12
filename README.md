@@ -4,10 +4,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
+
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░-░░░░░ ~~redacted~~
 
@@ -55,4 +55,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Saturday 11 May at 12:02 BST.
+Last updated on Sunday 12 May at 12:02 BST.
