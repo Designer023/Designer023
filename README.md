@@ -30,9 +30,11 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
 #### 🔐 ░░░-░░░░ ~~redacted~~
+
+#### 🔐 ░░░░░░-░░░░ ~~redacted~~
+
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -48,10 +50,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
-#### 🔐 ░░░░░░-░░░░ ~~redacted~~
-
 #### 🔐 ░░░░░-░░░░░░-░░░ ~~redacted~~
 
 
 ***
-Last updated on Wednesday 29 May at 12:02 BST.
+Last updated on Thursday 30 May at 12:02 BST.
