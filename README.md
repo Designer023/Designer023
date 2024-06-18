@@ -32,9 +32,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
-
 #### 🔐 ░░░░░ ~~redacted~~
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
@@ -54,4 +54,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Monday 17 June at 12:02 BST.
+Last updated on Tuesday 18 June at 12:02 BST.
