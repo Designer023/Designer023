@@ -32,14 +32,14 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
+#### [GROQ](https://github.com/sanity-io/GROQ)
+> Specification for GROQ - The Query Language for JSON
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
-
-#### [GROQ](https://github.com/sanity-io/GROQ)
-> Specification for GROQ - The Query Language for JSON
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -54,4 +54,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Monday 15 July at 12:02 BST.
+Last updated on Tuesday 16 July at 12:03 BST.
