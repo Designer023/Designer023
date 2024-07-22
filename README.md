@@ -30,11 +30,11 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
+#### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░ ~~redacted~~
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
@@ -54,4 +54,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Sunday 21 July at 12:02 BST.
+Last updated on Monday 22 July at 12:02 BST.
