@@ -32,15 +32,15 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░░░ ~~redacted~~
+#### [groqd](https://github.com/FormidableLabs/groqd)
+> A schema-unaware, runtime and type-safe query builder for GROQ.
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### [GROQ](https://github.com/sanity-io/GROQ)
 > Specification for GROQ - The Query Language for JSON
-
-#### [groqd](https://github.com/FormidableLabs/groqd)
-> A schema-unaware, runtime and type-safe query builder for GROQ.
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
@@ -57,4 +57,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Monday 29 July at 12:02 BST.
+Last updated on Tuesday 30 July at 12:02 BST.
