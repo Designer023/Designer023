@@ -32,10 +32,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
-
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░ ~~redacted~~
 
@@ -53,8 +53,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [sanity-plugin-visual-options](https://github.com/fddigital-uk/sanity-plugin-visual-options)
 > 
 
-#### 🔐 ░░░░░-░░░░░░-░░░ ~~redacted~~
-
 
 ***
-Last updated on Thursday 1 August at 12:02 BST.
+Last updated on Friday 2 August at 12:02 BST.
