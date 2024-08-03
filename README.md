@@ -30,10 +30,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
+
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
@@ -55,4 +55,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Friday 2 August at 12:02 BST.
+Last updated on Saturday 3 August at 12:02 BST.
