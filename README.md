@@ -39,9 +39,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░ ~~redacted~~
 
-#### [GROQ](https://github.com/sanity-io/GROQ)
-> Specification for GROQ - The Query Language for JSON
-
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
@@ -55,4 +52,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Friday 9 August at 12:02 BST.
+Last updated on Saturday 10 August at 12:02 BST.
