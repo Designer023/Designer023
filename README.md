@@ -34,15 +34,15 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
+#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
+> Netlify Plugin to run Lighthouse on each build
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
 
 #### 🔐 ░░░░░░-░░░░ ~~redacted~~
-
-#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
-> Netlify Plugin to run Lighthouse on each build
 
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
@@ -52,4 +52,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday 5 September at 12:03 BST.
+Last updated on Friday 6 September at 12:02 BST.
