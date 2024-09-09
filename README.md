@@ -34,6 +34,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
+#### [material-ui](https://github.com/mui/material-ui)
+> Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
+
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
 
@@ -41,8 +44,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
-
-#### 🔐 ░░░░░░-░░░░ ~~redacted~~
 
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
@@ -52,4 +53,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Sunday 8 September at 12:02 BST.
+Last updated on Monday 9 September at 12:02 BST.
