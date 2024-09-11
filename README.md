@@ -30,12 +30,12 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [material-ui](https://github.com/mui/material-ui)
 > Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
+
+#### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
 > Netlify Plugin to run Lighthouse on each build
@@ -53,4 +53,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday 10 September at 12:02 BST.
+Last updated on Wednesday 11 September at 12:03 BST.
