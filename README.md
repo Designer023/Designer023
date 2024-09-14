@@ -35,12 +35,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░-░░░░ ~~redacted~~
-
-#### [netlify-plugin-lighthouse](https://github.com/netlify/netlify-plugin-lighthouse)
-> Netlify Plugin to run Lighthouse on each build
-
 #### 🔐 ░░░░░ ~~redacted~~
+
+#### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
@@ -53,4 +50,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Friday 13 September at 12:02 BST.
+Last updated on Saturday 14 September at 12:02 BST.
