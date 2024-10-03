@@ -4,10 +4,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░_░░░░░░_░░░ ~~redacted~~
+
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
-
-#### 🔐 ░░░░_░░░░░░_░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
@@ -32,12 +32,12 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### [material-ui](https://github.com/mui/material-ui)
 > Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
@@ -50,4 +50,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday 2 October at 12:02 BST.
+Last updated on Thursday 3 October at 12:02 BST.
