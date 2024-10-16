@@ -33,11 +33,11 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [material-ui](https://github.com/mui/material-ui)
 > Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
@@ -50,4 +50,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Tuesday 15 October at 12:02 BST.
+Last updated on Wednesday 16 October at 12:02 BST.
