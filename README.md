@@ -34,13 +34,13 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
+#### [material-ui](https://github.com/mui/material-ui)
+> Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
+
 #### 🔐 ░░░░░ ~~redacted~~
 
 #### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
 > Extends Playwright test to measure code coverage
-
-#### [material-ui](https://github.com/mui/material-ui)
-> Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
@@ -50,4 +50,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday 24 October at 12:02 BST.
+Last updated on Friday 25 October at 12:02 BST.
