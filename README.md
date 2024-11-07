@@ -30,12 +30,12 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
+#### 🔐 ░░░░░ ~~redacted~~
+
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
 #### [material-ui](https://github.com/mui/material-ui)
 > Material UI: Comprehensive React component library that implements Google&#39;s Material Design. Free forever.
-
-#### 🔐 ░░░░░ ~~redacted~~
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
@@ -50,4 +50,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday 6 November at 11:02 GMT.
+Last updated on Thursday 7 November at 11:02 GMT.
