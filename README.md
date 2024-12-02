@@ -4,6 +4,8 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░░░-░░-░░░░-░░ ~~redacted~~
+
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
 
@@ -23,9 +25,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### 🔐 ░░░░░░-░░░░░░░-░░░░-░░░░ ~~redacted~~
 
 #### 🔐 ░░░░░░░░-░░░░-░░░░░░░-░░░░░░░░░░░ ~~redacted~~
-
-#### [advanced-stats](https://github.com/Designer023/advanced-stats)
-> Generate extra (advanced) stats from Strava data. Created so that I can to some trend analysis on various running params
 
 ***
 ## 🤝 I’ve contributed to...
@@ -47,4 +46,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Sunday 1 December at 11:02 GMT.
+Last updated on Monday 2 December at 11:02 GMT.
