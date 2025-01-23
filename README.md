@@ -36,9 +36,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
-#### [playwright-test-coverage](https://github.com/anishkny/playwright-test-coverage)
-> Extends Playwright test to measure code coverage
-
 #### [groqd](https://github.com/FormidableLabs/groqd)
 > A schema-unaware, runtime and type-safe query builder for GROQ.
 
@@ -46,4 +43,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Wednesday 22 January at 11:02 GMT.
+Last updated on Thursday 23 January at 11:02 GMT.
