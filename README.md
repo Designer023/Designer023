@@ -40,8 +40,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
-#### 🔐 ░░░░-░░░░░░░░-░░░░░░░-░░░-░░░░░░░ ~~redacted~~
-
 
 ***
-Last updated on Monday 19 May at 12:03 BST.
+Last updated on Tuesday 20 May at 12:02 BST.
