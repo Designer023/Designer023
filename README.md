@@ -36,10 +36,10 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### 🔐 ░░░-░░░░ ~~redacted~~
 
 #### [groqd](https://github.com/FormidableLabs/groqd)
-> A schema-unaware, runtime and type-safe query builder for GROQ.
+> Designed to give the best GROQ developer experience possible, with the flexibility of GROQ, schema-aware auto-completion, strong type-checking, and the runtime safety of Zod.
 
 #### 🔐 ░░░░░░░░ ~~redacted~~
 
 
 ***
-Last updated on Thursday 22 May at 12:03 BST.
+Last updated on Friday 23 May at 12:02 BST.
