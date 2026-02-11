@@ -28,9 +28,6 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 ***
 ## 🤝 I’ve contributed to...
 
-#### [groqd](https://github.com/FormidableLabs/groqd)
-> Designed to give the best GROQ developer experience possible, with the flexibility of GROQ, schema-aware auto-completion, strong type-checking, and the runtime safety of Zod.
-
 
 ***
-Last updated on Tuesday 10 February at 11:19 GMT.
+Last updated on Wednesday 11 February at 11:16 GMT.
