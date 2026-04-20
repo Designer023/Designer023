@@ -20,7 +20,7 @@
   "dependencies": {
     "@octokit/graphql": "^4.5.2",
     "dotenv": "^16.3.1",
-    "graphql": "^16.2.0",
+    "graphql": "^16.8.1",
     "mustache": "^4.2.0",
     "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
