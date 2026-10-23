@@ -4,14 +4,14 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
-#### 🔐 ░░░░░░░░-░░░ ~~redacted~~
+#### 🔐 ░░░░░░-░░░ ~~redacted~~
+
+#### 🔐 ░░░░░-░░░░-░░░ ~~redacted~~
 
 #### [Designer023](https://github.com/Designer023/Designer023)
 > Auto generating Github Profile readme
 
-#### 🔐 ░░░░-░░░-░░░ ~~redacted~~
-
-#### 🔐 ░░░░-░-░░░░-░░░ ~~redacted~~
+#### 🔐 ░░░░░░░░-░░░ ~~redacted~~
 
 #### [ha-readiness](https://github.com/Designer023/ha-readiness)
 > 
@@ -31,4 +31,4 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 
 ***
-Last updated on Thursday 22 October at 12:06 BST.
+Last updated on Friday 23 October at 12:07 BST.
