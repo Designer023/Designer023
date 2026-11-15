@@ -4,6 +4,14 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 
 ## 💻 I’ve recently been working on...
 
+#### 🔐 ░░░░-░░░-░░░ ~~redacted~~
+
+#### 🔐 ░░░░░░░░░-░░░ ~~redacted~~
+
+#### 🔐 ░░░-░░░░░░░ ~~redacted~~
+
+#### 🔐 ░░░-░░░░░-░░░ ~~redacted~~
+
 #### 🔐 ░░░░_░░░░░░_░░░ ~~redacted~~
 
 #### [Designer023](https://github.com/Designer023/Designer023)
@@ -18,17 +26,9 @@ Welcome to my Github profile. This is an auto generated/updated profile with a s
 #### [ha-readiness](https://github.com/Designer023/ha-readiness)
 > 
 
-#### 🔐 ░░░░░░░░░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░░░░-░░░ ~~redacted~~
-
-#### 🔐 ░░░░-░░░░░ ~~redacted~~
-
-#### 🔐 ░░░░░░░░ ~~redacted~~
-
 ***
 ## 🤝 I’ve contributed to...
 
 
 ***
-Last updated on Saturday 14 November at 11:03 GMT.
+Last updated on Sunday 15 November at 11:03 GMT.
